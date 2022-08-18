@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías Manno</h1>
-<h3 align="center">A future developer from Argentina</h3>
+<h3 align="center">Web developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Pet Center**
 
